@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1690696138265" clover="3.2.0">
+  <project timestamp="1690696138266" name="All files">
+    <metrics statements="16" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0" elements="16" coveredelements="16" complexity="0" loc="16" ncloc="16" packages="1" files="5" classes="5"/>
+    <file name="CompanyModel.js" path="D:\Assignment\Web_API\jobhunt360\server\model\CompanyModel.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="60" count="1" type="stmt"/>
+    </file>
+    <file name="EventModel.js" path="D:\Assignment\Web_API\jobhunt360\server\model\EventModel.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="44" count="1" type="stmt"/>
+    </file>
+    <file name="JobModel.js" path="D:\Assignment\Web_API\jobhunt360\server\model\JobModel.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="77" count="1" type="stmt"/>
+    </file>
+    <file name="TodoModels.js" path="D:\Assignment\Web_API\jobhunt360\server\model\TodoModels.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
+    </file>
+    <file name="userModel.js" path="D:\Assignment\Web_API\jobhunt360\server\model\userModel.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="176" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
