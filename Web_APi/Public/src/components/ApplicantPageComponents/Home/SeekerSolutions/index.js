@@ -75,7 +75,6 @@ function SeekerSolutions() {
                 <button>Explore Now</button>
               </Tilt>
             ),
-            import("./glass")
           )
         )}
       </CardsContainer>
